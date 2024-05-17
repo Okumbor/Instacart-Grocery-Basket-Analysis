@@ -38,7 +38,7 @@ Instacart aims to refine its marketing strategies by understanding the diverse c
 
 - **Clone the Repository**: Use `git clone https://github.com/Okumbor/Instacart-Grocery-Basket-Analysis.git` to get a local copy of this repository.
 - **Data Analysis**: Navigate to the `/scripts` directory to view and run the Jupyter Notebooks or Python scripts.
-- **View Results**: Check the `/visualizations` and `/reports` directories for graphical data presentations and detailed analysis reports.
+- **View Results**: Check the `/visualizations` and `/Sent_to_client` directories for graphical data presentations and detailed analysis reports.
 
 ## Data Visualization
 
