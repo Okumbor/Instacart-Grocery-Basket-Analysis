@@ -40,6 +40,16 @@ Instacart aims to refine its marketing strategies by understanding the diverse c
 - **Data Analysis**: Navigate to the `/scripts` directory to view and run the Jupyter Notebooks or Python scripts.
 - **View Results**: Check the `/visualizations` and `/reports` directories for graphical data presentations and detailed analysis reports.
 
+## Data Visualization
+
+Throughout the project, various data visualizations were created to better understand customer behaviors and enhance decision-making. Below is an example visualization that compares spending behavior profiles by department, illustrating the differences between high and low spenders across various departments:
+
+[Department_spender_profiles](https://github.com/Okumbor/Instacart-Grocery-Basket-Analysis/assets/51295051/2b057e20-1f3b-4a96-9ab0-705af9b1a9f3)
+
+This graph is essential for identifying which departments are most popular among different spender profiles and can help tailor marketing strategies effectively.
+
+
+
 ## Contribution
 
 Contributions to this project are welcome!
